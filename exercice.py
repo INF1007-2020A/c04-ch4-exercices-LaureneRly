@@ -24,8 +24,8 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
 
 def get_number_of_char(string: str, char: str) -> int:
     n=0
-    if 'l' is in string:
-        n =+1
+    if 'l' in string:
+        n =1
     return n
 
 
