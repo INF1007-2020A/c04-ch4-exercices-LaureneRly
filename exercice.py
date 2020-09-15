@@ -12,7 +12,8 @@ def is_even_len(string: str) -> bool:
 
 
 def remove_third_char(string: str) -> str:
-    c = input(" Veuillez entrer une chaine de caracteres")
+    c = input("Veuillez entrer une chaine de caracteres ")
+    
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
