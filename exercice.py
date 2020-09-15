@@ -33,7 +33,7 @@ def get_number_of_char(string: str, char: str) -> int:
 def get_number_of_words(sentence: str, word: str) -> int:
     
     for i in sentence:
-        if sentence[i] == 'doo':
+        if sentence[i] == word:
             
     return m
 pass
