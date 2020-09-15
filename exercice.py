@@ -3,7 +3,7 @@
 
 
 def is_even_len(string: str) -> bool:
-    chaine = input("Veuillez entrer une chaine de caracteres " \n ) 
+    chaine = input("Veuillez entrer une chaine de caracteres " )  
     if len(chaine)%2 == 0:
         return True
     else:
@@ -13,7 +13,7 @@ def is_even_len(string: str) -> bool:
 
 def remove_third_char(string: str) -> str:
     c = input("Veuillez entrer une chaine de caracteres ")
-    replace()
+    
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
