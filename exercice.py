@@ -4,9 +4,9 @@
 
 def is_even_len(string: str) -> bool:
     if len(chaine)%2 == 0:
-        is_even_len = True
+        is_even_len() = True
     else:
-        is_even_
+        is_even_len() = 
 
 
 
