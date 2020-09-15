@@ -34,7 +34,8 @@ def get_number_of_words(sentence: str, word: str) -> int:
     word= 'doo'
     m=0
     for i in sentence:
-        if sentence[i] == word
+        if sentence[i] == word:
+            m=
 
     pass
 
