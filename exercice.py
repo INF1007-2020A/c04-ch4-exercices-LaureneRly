@@ -11,7 +11,7 @@ def is_even_len(string: str) -> bool:
 
 
 def remove_third_char(string: str) -> str:
-    beginstring[2]
+    begin = string[0, ]
     
 
 
