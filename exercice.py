@@ -31,10 +31,10 @@ def get_number_of_char(string: str, char: str) -> int:
 
 
 def get_number_of_words(sentence: str, word: str) -> int:
-    m=0
+    
     for i in sentence:
         if sentence[i] == 'doo':
-            m+=1
+            
     return m
 pass
 
