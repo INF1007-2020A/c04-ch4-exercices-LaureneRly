@@ -3,7 +3,7 @@
 
 
 def is_even_len(string: str) -> bool:
-    if len(cj)
+    if len(chaine)
 
 
 def remove_third_char(string: str) -> str:
