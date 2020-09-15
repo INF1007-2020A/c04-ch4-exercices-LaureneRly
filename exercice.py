@@ -36,7 +36,7 @@ def get_number_of_words(sentence: str, word: str) -> int:
         if sentence[i] == word:
             m+=1    
     return m
-pass
+
 
 def main() -> None:
     chaine = "Bonjour!"
