@@ -11,7 +11,7 @@ def is_even_len(string: str) -> bool:
 
 
 def remove_third_char(string: str) -> str:
-    string.translate({ord(ch[2]): None})
+    string.translate({ord(string[2]): None})
     
 
 
