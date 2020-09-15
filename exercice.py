@@ -5,7 +5,7 @@
 def is_even_len(string: str) -> bool:
     chaine = input("Une chaine de caracteres")
     if len(chaine)%2 == 0:
-        is_even_len= True
+        return True
     else:
         is_even_len = False
 
