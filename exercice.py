@@ -35,7 +35,8 @@ def get_number_of_words(sentence: str, word: str) -> int:
     m=0
     for i in sentence:
         if sentence[i] == word:
-            m=
+            m+=1
+    return m
 
     pass
 
