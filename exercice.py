@@ -18,7 +18,7 @@ def remove_third_char(string: str) -> str:
 #aurait pu faire retun string[0:2] + string[3:]
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
-    newwrd = string.replace()
+    newwrd = string.replace(old_char, )
 
 
 def get_number_of_char(string: str, char: str) -> int:
