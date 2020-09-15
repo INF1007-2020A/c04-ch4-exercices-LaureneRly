@@ -7,7 +7,7 @@ def is_even_len(string: str) -> bool:
     if len(chaine)%2 == 0:
         return True
     else:
-        is_even_len = False
+        return False
 
 
 
